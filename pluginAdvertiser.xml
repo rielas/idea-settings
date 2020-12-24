@@ -819,6 +819,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.purs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.kenro.ji.jin.intellij.purescript" />
+              <option name="myPluginName" value="Purescript" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.regexp">
           <value>
             <plugin>
