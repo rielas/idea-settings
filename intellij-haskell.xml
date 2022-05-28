@@ -1,0 +1,10 @@
+<application>
+  <component name="HaskellConfiguration">
+    <option name="useSystemGhc" value="true" />
+    <option name="hlintPath" value="$USER_HOME$/.cabal/bin/hlint" />
+    <option name="hooglePath" value="$USER_HOME$/.cabal/bin/hoogle" />
+    <option name="ormoluPath" value="$USER_HOME$/.cabal/bin/ormolu" />
+    <option name="stylishHaskellPath" value="$USER_HOME$/.cabal/bin/stylish-haskell" />
+    <option name="customTools" value="true" />
+  </component>
+</application>
